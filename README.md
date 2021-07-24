@@ -1,6 +1,6 @@
 # You might want to start from here
 
-https://github.com/mls0527/RNA-Seq-as-a-tool-to-biology-study/wiki
+https://github.com/mls0527/RNA-Seq-as-a-tool-to-biology-study/wiki/Table-of-Contents
 
 # Who is going to read this
 
