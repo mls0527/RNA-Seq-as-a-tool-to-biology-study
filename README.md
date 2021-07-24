@@ -1,4 +1,4 @@
-# RNA-Seq-as-a-tool-to-biology-study
+# RNA-Seq as a tool to biologist
 
 This is a repo for molecular biologists in any disciplines to learn how to use computer as a tool to do basic science. 
 
