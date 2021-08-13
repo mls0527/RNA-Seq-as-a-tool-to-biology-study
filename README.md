@@ -24,4 +24,4 @@ I am not confining myself to RNA-Seq but I consider this is a pretty good start 
 
 One can also see this as a diary of a struggling hard-core natural scientist who transited from academia to industry, and trying to transform the infrastructure to adapt to the change of the world. Not to become someone else, but a better man. 
 
-By the way I am open for hiring from start-up to global renowned pharmaceuticals/personal care product manufacturers. Feel free to contact me for a discussion. 
+By the way I am open for hiring from start-up to global renowned pharmaceuticals/personal care/FMCG entities. Feel free to contact me for a discussion. 
