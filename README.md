@@ -8,7 +8,7 @@ This is a repo for molecular biologists in any disciplines to learn how to use c
 
 Those who wants to leave academia and work in industrial sector might also want to comb through the writings, to get an idea of why some colleagues are having hard time in getting jobs outside of University or research institutes.  
 
-# RNA-Seq/Data science as a tool to biologist
+# Genomic data science as a tool to biologist
 
 I believe that science is all about hypothesis testing. But the hypothesis testing that I am talking about here is a bit different from the way statisticians would like to put. For example 
 
