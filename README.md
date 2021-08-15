@@ -1,3 +1,11 @@
+# Updates
+
+2021/Aug/15 - Starting the samtools section.   
+2021/Aug/15 - Start to log updates  
+2021/July/day hit badly by summer heat - Started this repository  
+
+It was late July 2021 when I first initiate this repository. I did not realize how the rapid change of the field could impact this writing, as in I know things are moving fast but little do I realize something merely 2 years old could be so obsoleted that one has to read the manuals to learn the old tricks again. This causes me to extensively modify my existing entries and make me cautious when suggesting readings and making remarks. Anyway there is one thing I can be very sure of: I am not going to update this repository once RNA-Seq or Genome big data analysis became something like molecular cloning to me. Nor do I have the obligation to keep this relevant for an extented period of time, so I decided to mark the updates here and don't take things too literal if at the time when you come, I haven't been touching things for more than 1 year.
+
 # You might want to start from here
 
 https://github.com/mls0527/RNA-Seq-as-a-tool-to-biology-study/wiki/Table-of-Contents
