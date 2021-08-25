@@ -18,7 +18,7 @@ Those who wants to leave academia and work in industrial sector might also want 
 
 # Genomic data science as a tool to biologist
 
-I believe that science is all about hypothesis testing. But the hypothesis testing that I am talking about here is a bit different from the way statisticians would like to put. For example 
+I believe that science is all about hypothesis testing. But the hypothesis that I am talking about here is a bit different from the way statisticians would like to put. For example 
 
 >You want to test a hypothesis that each day, fraction, and diet will contain genes that are signicantly different under varying treatments. How does the sequencing facility organization and the organization of files for your analysis differ? What about the naming of the files? Are they useful to you? Draw a data organization structure that you would recommend.
 
