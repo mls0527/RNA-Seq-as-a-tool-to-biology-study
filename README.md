@@ -1,6 +1,7 @@
 # Updates
 
-2021/Sept/06 - (Sorry for the long idle) FastQC
+2021/Oct/07 - FastQC
+2021/Sept/06 - (Sorry for the long idle) FastQC  
 2021/Aug/15 - Starting with the samtools section.   
 2021/Aug/15 - Start to log updates  
 2021/July/a day hit badly by summer heat - Started this repository  
