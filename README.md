@@ -16,7 +16,7 @@ https://github.com/mls0527/RNA-Seq-as-a-tool-to-biology-study/wiki/Table-of-Cont
 
 This is a repo for molecular biologists in any disciplines to learn how to use computer as a tool to do basic science. You will need to be fluent in molecular biology and classical basic science to understand me. And the next thing would be an open mind. To see things past what they are and customize the usage to suit yourself and serve humanity. This is the definition of tool.
 
-Those who wants to leave academia and work in industrial sector might also want to comb through the writings, to get an idea of why some colleagues are having hard time in getting jobs outside of University or research institutes.  
+Those who want to leave academia and work in industrial sector might also want to comb through the writings, to get an idea of why some colleagues are having hard time in getting jobs outside of University or research institutes.  
 
 # Genomic data science as a tool to biologist
 
